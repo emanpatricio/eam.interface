@@ -8,10 +8,10 @@
 
     angular
         .module('eam.account')
-        .controller('Controller', Controller);
+        .controller('AccountController','AccountService', AccountController);
 
-    Controller.$inject = ['$log'];
-    function Controller($log) {
+    AccountController.$inject = ['$log'];
+    function AccountController($log,AccountService) {
         // for controllerAs syntax
         // var vm = this;
 
@@ -21,6 +21,9 @@
 
         function activate() {
           $log.log('I\'m a line from custom.js');
+
+          var accountObj={ title: "The Hobbit", author: "J.R.R Tolkien" }
+          AccountService.addAccount(accountObjs);
         }
     }
 })();

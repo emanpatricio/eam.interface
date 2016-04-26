@@ -43,6 +43,7 @@
           })
            .state('eam.accounts-registration', {
               url: '/accounts-registration',
+              controller: 'AccountController',
               title: 'Account Registration View',
               templateUrl: helper.basepath('account-registration.html')
           })
