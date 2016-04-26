@@ -1,0 +1,71 @@
+{
+  "name": "EAM",
+  "version": "0.0.0",
+  "authors": [
+    "@themicon_co"
+  ],
+  "description": "EAM - Enterprise Asset Management Phase 2",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap",
+    "angular",
+    "admin",
+    "theme",
+    "dashboard"
+  ],
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "angular-loading-bar": "0.7.0",
+    "angular-translate": "2.6.0",
+    "angular-ui-router": "0.2.13",
+    "angular": "1.4.2",
+    "angular-route": "1.4.2",
+    "angular-bootstrap": "0.12.1",
+    "angular-cookies": "1.4.2",
+    "angular-translate-loader-url": "2.6.0",
+    "angular-translate-loader-static-files": "2.6.0",
+    "angular-translate-storage-local": "2.6.0",
+    "angular-translate-storage-cookie": "2.6.0",
+    "angular-animate": "1.4.2",
+    "angular-ui-utils": "0.2.2",
+    "angular-ui-codemirror": "0.3.0",
+    "angular-chosen-localytics": "1.0.8",
+    "angular-bootstrap-slider": "0.1.26",
+    "angular-ui-grid": "3.0.0-rc.20",
+    "angular-datatables": "0.4.3",
+    "fontawesome": "4.3.0",
+    "oclazyload": "0.6.3",
+    "ngstorage": "0.3.0",
+    "jquery": "2.1.3",
+    "modernizr": "2.8.3",
+    "angular-sanitize": "1.4.2",
+    "angular-resource": "1.4.2",
+    "simple-line-icons": "0.1.1",
+    "angular-touch": "1.4.2",
+    "jquery.browser": "master",
+    "angular-bootstrap-colorpicker": "3.0.24",
+    "codemirror": "5.12.0",
+    "moment": "2.11.2",
+    "bootstrap-tagsinput": "0.8.0",
+    "jquery.inputmask": "3.2.7",
+    "chosen_v1.2.0": "https://github.com/harvesthq/chosen/releases/download/v1.2.0/chosen_v1.2.0.zip",
+    "seiyria-bootstrap-slider": "6.0.17",
+    "ngWig": "stevermeister/ngWig#0.8.5",
+    "bootstrap-filestyle": "1.2.1",
+    "textAngular": "1.4.1",
+    "ng-table": "0.5.1",
+    "ng-table-export": "*",
+    "ng-grid": "2.0.14",
+    "ag-grid": "1.7.0",
+    "fastclick": "1.0.6"
+  },
+  "resolutions": {
+    "seiyria-bootstrap-slider": "6.0.17",
+    "angular": "1.4.2",
+    "angular-translate": "2.6.0",
+    "angular-translate-storage-cookie": "2.6.0",
+    "angular-cookies": "1.4.2"
+  }
+}

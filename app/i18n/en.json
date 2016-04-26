@@ -1,0 +1,42 @@
+{
+  "dashboard": {
+    "WELCOME": "Welcome to {{appName}}"
+  },
+  "topbar": {
+    "search": {
+      "PLACEHOLDER": "Type and hit enter.."
+    }
+  },
+  "sidebar": {
+    "WELCOME": "Welcome",
+    "heading": {
+      "HEADER": "Main Navigation"
+    },
+    "nav": {
+      "SINGLEVIEW": "Single View",
+      "DASHBOARD": "Dashboard",
+      "USER": "User Maintenance",
+      "DEPARTMENT": "Department",
+      "JOBS": "Jobs",
+      "LOCATION": "Location",
+      "menu": {
+        "MENU": "Menu",
+        "SUBMENU": "Sub Menu"
+      },
+      "form": {
+        "FORM": "Forms",
+        "STANDARD": "Standard",
+        "EXTENDED": "Extended",
+        "VALIDATION": "Validation",
+        "WIZARD": "Wizard",
+        "UPLOAD": "Upload"
+      },
+      "table": {
+        "TABLE": "Table",
+        "STANDARD": "Standard",
+        "EXTENDED": "Extended",
+        "DATATABLE": "Datatable"
+      }
+    }
+  }
+}
